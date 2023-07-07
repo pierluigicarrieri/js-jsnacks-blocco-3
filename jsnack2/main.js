@@ -10,7 +10,7 @@ const evenContainerElement = document.getElementById("even_container")
 
 for (i = 0; i < 20; i++) {
 
-    let arrayElement = (Math.floor(Math.random() * 11));
+    let arrayElement = (Math.floor(Math.random() * 10));
 
     arrayNumbers.push(arrayElement);
 
